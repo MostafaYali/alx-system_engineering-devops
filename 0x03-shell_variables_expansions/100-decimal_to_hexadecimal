@@ -1,0 +1,2 @@
+#!/bin/bahs
+printf "%x\n" $DECIMAL
